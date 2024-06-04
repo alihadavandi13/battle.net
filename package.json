@@ -1,0 +1,20 @@
+{
+  "name": "battlenet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "npx": "npx tailwindcss -i ./tailwind/tailwind.css -o ./CSS/main.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "daisyui": "^3.9.3",
+    "tailwindcss": "^3.3.3"
+  },
+  "dependencies": {
+    "swiper": "^11.0.2",
+    "theme-change": "^2.5.0"
+  }
+}
